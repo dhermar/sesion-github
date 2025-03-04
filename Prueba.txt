@@ -1,2 +1,4 @@
 Primera linea del archivo
-Segunda linea del archivo
+Segunda linea del archivo modificada y arreglada en la rama bugfixing
+Tercera linea del archivo
+Lineas nuevas de la rama de bugfixing
